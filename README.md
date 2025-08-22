@@ -19,17 +19,17 @@ Welcome to **QR Codes & Outreach Utilities** — a collection of Python scripts 
 
 ### 🚀 Getting Started
 
-Clone the repo:
+#### Open in Google Colab:
+
+Click the badge below to launch the notebook in Google Colabs.
+
+-- OR --
+
+#### Clone the repo:
 
 ```bash
 git clone https://github.com/glevans/useful_scripts_outreach.git
 cd useful_scripts_outreach
-```
-
-Open the notebooks in Google Colab:
-
-```markdown
-!Open in Colab
 ```
 
 ---
@@ -49,6 +49,7 @@ useful_scripts_outreach/
 ├── assets/
 │   └── ...
 │
+├── LICENSE
 └── README.md
 ```
 
@@ -63,7 +64,3 @@ Pull requests are welcome! If you have tools or ideas that help make presentatio
 ### 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-Would you like help generating the actual notebooks or setting up the repo structure?
